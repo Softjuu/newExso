@@ -15,10 +15,8 @@
 
              
 
-             
- <sonar.organization>softjuu</sonar.organization>
+  <sonar.organization>softjuu</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-
 
     </properties>
     <dependencies>
